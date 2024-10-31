@@ -1,0 +1,74 @@
+    1  clear
+    2  git config --global user.name "Dariia Uvarova"
+    3  git config --global user.email "daryauvarova100@gmail.com"
+    4  git clone https://github.com/daryauvarova/HW_10
+    5  cd git HW_10
+    6  cd GitHW_10
+    7  cd Git HW_10
+    8  git HW_10
+    9  cd HW_10
+   10  touch text_ignore.txt
+   11  git status
+   12  git add text_ignore.txt
+   13  git status
+   14  git commit -m 'first commit'
+   15  git push
+   16  clear
+   17  touch main_test.txt
+   18  git add main_text.txt
+   19  git status
+   20  git commit -m 'Second commit'
+   21  git push
+   22  git add main_test.txt
+   23  git push
+   24  git status
+   25  git commit -m 'Second commit'
+   26  git push
+   27  git branch develop
+   28  checkout develop
+   29  git checkout develop
+   30  touch develop_test.txt
+   31  git add develop_test.txt
+   32  git commit 'Third commit'
+   33  git commit -m 'Third commit'
+   34  git push
+   35  git add develop_test.txt
+   36  git push
+   37  git status
+   38  git add develop_test.txt
+   39  git sattus
+   40  git status
+   41  git add develop_test.txt
+   42  git status
+   43  git push
+   44  touch develop_test.txt
+   45  git add develop_test.txt
+   46  git commit -m 'third commit'
+   47  git add develop_test.txt
+   48  git satatus
+   49  git status
+   50  touche develop_test.txt
+   51  touch develop_test.txt
+   52  git add develop_test.txt
+   53  git status
+   54  git add develop_test.txt 
+   55  git push
+   56  git status
+   57  git add develop_test.txt
+   58  git commit -m "third commit"
+   59  ls -l
+   60  checkout develop
+   61  git checkout develop
+   62  touch develop_test.txt
+   63  git add develop_test.txt
+   64  git commit -m "third commit"
+   65  vim develop_test.txt
+   66  git status
+   67  git add develop_test.txt
+   68  git commit -m 'third commit'
+   69  git checkout main
+   70  git merge develop and main
+   71  git merge develop main
+   72  git log
+   73  history > command_list/csv
+   74  history > command_list.csv
